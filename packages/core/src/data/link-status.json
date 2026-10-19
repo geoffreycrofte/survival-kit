@@ -1,1 +1,547 @@
-{}
+{
+  "https://112.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://cours.cgdis.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://eau.geoportail.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://github.com/geoffreycrofte/survival-kit/issues": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://infocrise.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://letzprepare.public.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://letzprepare.public.lu/fr/guide.html": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://lu-alert.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://paypal.me/Crofte": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://police.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://revolut.me/crofte?note=Donation%20Kitzy.lu": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://santesecu.public.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Alkaline%20Batterien%20AA%20AAA%20Vorratspack": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Campingkocher%20Gaskartusche": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=CO%20Melder%20EN%2050291": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=DAB%2B%20Kurbelradio%20Solar": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Dosen%C3%B6ffner%20manuell%20Edelstahl": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Erste-Hilfe-Set%20Familie": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=faltbarer%20Wasserkanister%2020%20l": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=faltbares%20Solarpanel%20USB%2021W": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=FFP2%20Maske%20CE%20EN%20149": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Gaskartusche%20Ventil%20Camping": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Gaskocher%20tragbar%20Butan%20Koffer": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Gewebeband%20Panzertape": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Kofferradio%20Batterie%20UKW": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Kurbelradio%20Solar%20USB%20Taschenlampe": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=L%C3%B6schdecke%20EN%201869": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=LED%20Campinglaterne%20Batterie": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Lithium%20Batterien%20AA%201%2C5V": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Multitool%20Zange%20Verriegelung": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Notfallpfeife%20ohne%20Kugel": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Packsack%20wasserdicht%20Set": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Paracord%20550%2030%20m": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Powerbank%2020000%20mAh%20USB-C": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Powerstation%20250Wh%20tragbar": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Rauchmelder%20EN%2014604%2010%20Jahre%20Batterie": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Rettungsdecke%20Set": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Schaumfeuerl%C3%B6scher%202%20l%20EN3": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Schlafsack%20Komfort%200%20Grad": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Schlafsack%20Komfort%2010%20Grad": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Stirnlampe%20AAA%20200%20Lumen": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Stirnlampe%20hybrid%20USB-C%20AAA": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Taschenlampe%20LED%20AA%20Batterien": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Taschenmesser%20Dosen%C3%B6ffner": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Verbandkasten%20DIN%2013157": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Wanderrucksack%2030%20l": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Wasserentkeimungstabletten": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Wasserfilter%20outdoor%200%2C1%20Mikron": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.de/s?k=Wasserkanister%2010%20l%20Hahn%20lebensmittelecht": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=batterie%20externe%2020000%20mAh%20USB-C": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=cartouche%20gaz%20valve%20camping": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=couteau%20de%20poche%20multifonction%20ouvre-bo%C3%AEte": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=couverture%20anti-feu%20EN%201869": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=couverture%20de%20survie%20lot": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=d%C3%A9tecteur%20de%20fum%C3%A9e%20EN%2014604%20pile%2010%20ans": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=d%C3%A9tecteur%20monoxyde%20de%20carbone%20EN%2050291": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=extincteur%20mousse%202%20L%20EN3%20maison": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=filtre%20%C3%A0%20eau%20portable%200%2C1%20micron": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=jerrican%20eau%20alimentaire%2010%20L%20robinet": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=lampe%20frontale%20piles%20AAA%20200%20lumens": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=lampe%20frontale%20rechargeable%20USB-C%20hybride%20piles%20AAA": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=lampe%20torche%20LED%20piles%20AA": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=lanterne%20LED%20piles%20camping": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=masque%20FFP2%20CE%20EN%20149": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=ouvre-bo%C3%AEte%20manuel%20inox": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=panneau%20solaire%20pliable%20USB%2021W": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=paracorde%20550%2030%20m": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=pastilles%20purification%20eau": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=piles%20alcalines%20AA%20AAA%20longue%20dur%C3%A9e%20lot": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=piles%20lithium%20AA%201%2C5V": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=pince%20multifonction%20outils%20verrouillables": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=r%C3%A9chaud%20camping%20cartouche%20gaz": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=r%C3%A9chaud%20portable%20butane%20mallette": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=r%C3%A9servoir%20eau%20pliable%2020%20L%20alimentaire": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=radio%20DAB%2B%20manivelle%20solaire": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=radio%20FM%20portable%20piles": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=radio%20manivelle%20solaire%20USB%20lampe": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=ruban%20adh%C3%A9sif%20toil%C3%A9%20renforc%C3%A9%20duct%20tape": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=sac%20%C3%A0%20dos%20randonn%C3%A9e%2030%20L": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=sac%20%C3%A9tanche%20lot%20plusieurs%20tailles": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=sac%20de%20couchage%20confort%200%20degr%C3%A9": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=sac%20de%20couchage%20confort%2010%20degr%C3%A9s": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=sifflet%20de%20secours%20sans%20bille": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=station%20%C3%A9nergie%20portable%20250Wh": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=trousse%20de%20secours%20DIN%2013157": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.amazon.fr/s?k=trousse%20de%20secours%20famille": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.croix-rouge.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.cybersecurity.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=cartouche%20gaz": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=couteau%20multifonction": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=couverture%20de%20survie": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=filtre%20%C3%A0%20eau": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=jerrican%20pliable": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=lampe%20frontale%20piles": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=lampe%20frontale%20rechargeable": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=lanterne%20camping": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=paracorde": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=pastilles%20purification%20eau": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=r%C3%A9chaud%20camping": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=sac%20%C3%A0%20dos%20randonn%C3%A9e%2030%20L": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=sac%20%C3%A9tanche": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=sac%20de%20couchage%200%C2%B0": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=sac%20de%20couchage%2010%C2%B0": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=sifflet": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.decathlon.fr/search?Ntt=trousse%20de%20secours": {
+    "status": "unknown",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.inondations.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.lu-alert.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.meteolux.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  },
+  "https://www.seveso.lu": {
+    "status": "ok",
+    "lastChecked": "2026-10-19",
+    "failures": 0
+  }
+}
